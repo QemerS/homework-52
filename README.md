@@ -1,1 +1,1 @@
-# homework-52
+# DbContext, migration

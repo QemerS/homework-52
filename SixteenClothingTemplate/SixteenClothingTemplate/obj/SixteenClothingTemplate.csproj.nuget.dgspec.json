@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Qemer\\source\\repos\\SixteenClothingTemplate\\SixteenClothingTemplate\\SixteenClothingTemplate.csproj": {}
+    "C:\\Users\\Qemer\\Desktop\\homework-52\\SixteenClothingTemplate\\SixteenClothingTemplate\\SixteenClothingTemplate.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Qemer\\source\\repos\\SixteenClothingTemplate\\SixteenClothingTemplate\\SixteenClothingTemplate.csproj": {
+    "C:\\Users\\Qemer\\Desktop\\homework-52\\SixteenClothingTemplate\\SixteenClothingTemplate\\SixteenClothingTemplate.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Qemer\\source\\repos\\SixteenClothingTemplate\\SixteenClothingTemplate\\SixteenClothingTemplate.csproj",
+        "projectUniqueName": "C:\\Users\\Qemer\\Desktop\\homework-52\\SixteenClothingTemplate\\SixteenClothingTemplate\\SixteenClothingTemplate.csproj",
         "projectName": "SixteenClothingTemplate",
-        "projectPath": "C:\\Users\\Qemer\\source\\repos\\SixteenClothingTemplate\\SixteenClothingTemplate\\SixteenClothingTemplate.csproj",
+        "projectPath": "C:\\Users\\Qemer\\Desktop\\homework-52\\SixteenClothingTemplate\\SixteenClothingTemplate\\SixteenClothingTemplate.csproj",
         "packagesPath": "C:\\Users\\Qemer\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Qemer\\source\\repos\\SixteenClothingTemplate\\SixteenClothingTemplate\\obj\\",
+        "outputPath": "C:\\Users\\Qemer\\Desktop\\homework-52\\SixteenClothingTemplate\\SixteenClothingTemplate\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Qemer\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -39,6 +39,18 @@
       "frameworks": {
         "net5.0": {
           "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[5.0.13, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.13, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

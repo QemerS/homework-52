@@ -114,3 +114,4 @@ C:\Users\Qemer\Desktop\homework-52\SixteenClothingTemplate\SixteenClothingTempla
 C:\Users\Qemer\Desktop\homework-52\SixteenClothingTemplate\SixteenClothingTemplate\obj\Debug\net5.0\ref\SixteenClothingTemplate.dll
 C:\Users\Qemer\Desktop\homework-52\SixteenClothingTemplate\SixteenClothingTemplate\obj\Debug\net5.0\SixteenClothingTemplate.pdb
 C:\Users\Qemer\Desktop\homework-52\SixteenClothingTemplate\SixteenClothingTemplate\obj\Debug\net5.0\SixteenClothingTemplate.genruntimeconfig.cache
+C:\Users\Qemer\Desktop\homework-52\SixteenClothingTemplate\SixteenClothingTemplate\obj\Debug\net5.0\Razor\Views\Shared\_banner-partial.cshtml.g.cs
